@@ -1,4 +1,4 @@
 <configuration>
-<name>dfs.name.dir</name>
-<value>/nn</name>
+  <name>dfs.name.dir</name>
+  <value>/nn</name>
 </configuration>
